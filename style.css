@@ -1,0 +1,12 @@
+#profil {
+    width: 15rem;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    object-position: top;
+    /* border: 2PX solid #444480; */
+    border: 0.2rem solid rgb(255, 255, 255);
+    box-shadow: 0rem 0rem 2rem 0 rgb(255, 255, 255) ;
+}
+
+
